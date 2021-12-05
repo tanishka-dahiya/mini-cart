@@ -1,5 +1,5 @@
-# Chart Dashboard
-In this project you can get api response in chart form and also add and delete values in chart.
+# Mini cart
+In this project you can do all cart action, remove items, increase or decrease quantity.
 ## Installation
 Clone this repository<br/>
 ```bash
@@ -14,7 +14,7 @@ also validation of entry is also there.
 npm start
 ```
 
-deployed on: https://dashbardchart.herokuapp.com/
+
 
 
 
